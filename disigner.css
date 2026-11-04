@@ -1,0 +1,14 @@
+body
+{
+background-color: darkgray;
+}
+h1
+{
+    color:brown ;
+    ;
+}
+#text {
+    position: absolute;
+    transition: 0.2s;
+    cursor: pointer;
+}
